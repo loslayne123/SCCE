@@ -52,7 +52,7 @@ def gerencia_equipes():
         elif choice == '3':
             pass
         elif choice == '4':
-            pass
+            print()
         elif choice == '5':
             break
         else:
